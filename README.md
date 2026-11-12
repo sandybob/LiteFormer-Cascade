@@ -1,5 +1,7 @@
 # LiteFormer-Cascade
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24166636.svg)](https://doi.org/10.5281/zenodo.24166636)
+
 Code, run configurations and saved test predictions for
 
 > S. Y. Bobade, R. S. Apare, P. N. Mahalle, H. Joshi. *LiteFormer-Cascade: A Calibrated, Class-Aware Confidence Cascade for Cost-Efficient Fine-Grained IoT Botnet Detection.* Journal of Computers, Mechanical and Management (manuscript 261946, revised).

@@ -11,5 +11,7 @@ authors:
   - family-names: Joshi
     given-names: Hrushikesh
 license: MIT
+doi: 10.5281/zenodo.24166636
+repository-code: "https://github.com/sandybob/LiteFormer-Cascade"
 version: "1.0.0"
 date-released: "2026-12-01"
