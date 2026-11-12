@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the paper and this archive."
+title: "LiteFormer-Cascade: code, configurations and test predictions"
+authors:
+  - family-names: Bobade
+    given-names: Sandip Y.
+  - family-names: Apare
+    given-names: Ravindra S.
+  - family-names: Mahalle
+    given-names: Parikshit N.
+  - family-names: Joshi
+    given-names: Hrushikesh
+license: MIT
+version: "1.0.0"
+date-released: "2026-12-01"

@@ -1,0 +1,40 @@
+model,predicted_class,benign_flows,share_of_benign_%,share_of_false_alarms_%
+LiteFormer-Cascade,Recon-OSScan,187,4.539,32.522
+LiteFormer-Cascade,DNS_Spoofing,65,1.578,11.304
+LiteFormer-Cascade,DictionaryBruteForce,65,1.578,11.304
+LiteFormer-Cascade,Recon-PingSweep,56,1.359,9.739
+LiteFormer-Cascade,SqlInjection,49,1.189,8.522
+LiteFormer-Cascade,MITM-ArpSpoofing,40,0.971,6.957
+LiteFormer-Cascade,XSS,26,0.631,4.522
+LiteFormer-Cascade,BrowserHijacking,24,0.583,4.174
+LiteFormer-Cascade,Recon-PortScan,22,0.534,3.826
+LiteFormer-Cascade,CommandInjection,15,0.364,2.609
+LiteFormer-Cascade,Uploading_Attack,10,0.243,1.739
+LiteFormer-Cascade,Recon-HostDiscovery,9,0.218,1.565
+LiteFormer-Cascade,Backdoor_Malware,7,0.17,1.217
+XGBoost,Recon-OSScan,181,4.393,30.993
+XGBoost,Recon-PingSweep,68,1.65,11.644
+XGBoost,DictionaryBruteForce,66,1.602,11.301
+XGBoost,DNS_Spoofing,66,1.602,11.301
+XGBoost,SqlInjection,47,1.141,8.048
+XGBoost,MITM-ArpSpoofing,34,0.825,5.822
+XGBoost,Recon-PortScan,30,0.728,5.137
+XGBoost,BrowserHijacking,25,0.607,4.281
+XGBoost,XSS,23,0.558,3.938
+XGBoost,Uploading_Attack,14,0.34,2.397
+XGBoost,CommandInjection,11,0.267,1.884
+XGBoost,Recon-HostDiscovery,10,0.243,1.712
+XGBoost,Backdoor_Malware,9,0.218,1.541
+Full stack,Recon-OSScan,187,4.539,32.522
+Full stack,DNS_Spoofing,65,1.578,11.304
+Full stack,DictionaryBruteForce,64,1.553,11.13
+Full stack,Recon-PingSweep,56,1.359,9.739
+Full stack,SqlInjection,49,1.189,8.522
+Full stack,MITM-ArpSpoofing,41,0.995,7.13
+Full stack,XSS,26,0.631,4.522
+Full stack,BrowserHijacking,24,0.583,4.174
+Full stack,Recon-PortScan,22,0.534,3.826
+Full stack,CommandInjection,15,0.364,2.609
+Full stack,Uploading_Attack,10,0.243,1.739
+Full stack,Recon-HostDiscovery,9,0.218,1.565
+Full stack,Backdoor_Malware,7,0.17,1.217

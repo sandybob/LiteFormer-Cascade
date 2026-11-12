@@ -1,0 +1,4 @@
+{"title": "LiteFormer-Cascade: code, configurations and test predictions",
+ "upload_type": "software", "license": "MIT",
+ "creators": [{"name": "Bobade, Sandip Y."}, {"name": "Apare, Ravindra S."}, {"name": "Mahalle, Parikshit N."}, {"name": "Joshi, Hrushikesh"}],
+ "keywords": ["IoT botnet detection", "cascade inference", "confidence calibration", "CICIoT2023", "N-BaIoT"]}

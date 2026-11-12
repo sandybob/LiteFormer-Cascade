@@ -1,0 +1,7 @@
+model,proportions,benign_share_pct,benign_fpr_pct,false_alarm_share_pct,false_alarms_per_million_flows,attack_detection_rate_pct,missed_attacks_per_million_flows,weighted_accuracy_pct
+Full stack,release,2.3523,13.9563,0.3352,3282.9029,99.9292,690.8916,99.1424
+Full stack,test,1.812,13.9563,0.2577,2528.9176,99.647,3465.7167,95.0209
+LiteFormer-Cascade,release,2.3523,13.9563,0.3352,3282.9029,99.9291,692.2011,99.1406
+LiteFormer-Cascade,test,1.812,13.9563,0.2577,2528.9176,99.6457,3478.911,95.0248
+XGBoost,release,2.3523,14.1748,0.3405,3334.2875,99.9276,706.7525,99.1176
+XGBoost,test,1.812,14.1748,0.2619,2568.5007,99.63,3632.8451,94.9598
